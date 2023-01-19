@@ -1,0 +1,133 @@
+---
+title: "Pengaruh ekspor terhadap PDB Indonesia"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Dewi Anggraini Ariningtyas"
+date: 2023-01-19
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+![](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Pertumbuhan Produk Domestik Bruto (PDB) merupakan impian setiap negara. Masalah bagaimana suatu negara dapat meningkatkan produk domestik brutonya merupakan salah satu isu utama perekonomian negara. Pertumbuhan Produk Domestik Bruto (PDB) mencerminkan keadaan suatu negara, apakah mengalami kemajuan ekonomi atau sebaliknya.
+
+Pertumbuhan ekonomi adalah tujuan yang ingin dicapai perekonomian dalam jangka panjang dan sekonsisten mungkin dengan pertumbuhan ekonomi jangka pendek. Pembangunan ekonomi dapat menjelaskan dan mengukur perkembangan ekonomi suatu negara. Dengan memahami pertumbuhan ekonomi yang diharapkan, pemerintah di setiap negara memiliki beberapa komponen politik yang dapat digunakan untuk mewujudkan pertumbuhan ekonomi yang dicapai. Salah satunya adalah kebijakan perdagangan internasional.
+
+Dalam perdagangan internasional, Ekspor dapat membantu negara untuk berintegrasi dalam ekonomi dunia dan membantu mengurangi dampak dari guncangan eksternal pada perekonomian domestik. Ekspor memungkinkan produksi dalam negeri mencapai tingkat tinggi skala ekonomi dan menjadikan sektor ini sebagai mesin penggerak pertumbuhan ekonomi. Ekspor memegang peranan penting dalam kegiatan perekonomian suatu negara dan juga ekspor merupakan salah satu sumber devisa bagi negara-negara dengan perekonomian terbuka, karena ekspor sangat beragam di berbagai negara sehingga memungkinkan untuk meningkatkan volume produksinya.
+
+Ekspor dapat ditingkatkan jika negara tersebut memiliki kemampuan untuk mengolah dan memanfaatkan sumber daya alam yang ada dengan sebaik-baiknya dan seoptimal mungkin. Oleh karena itu, diharapkan dapat memberikan dampak yang signifikan terhadap perkembangan dan stabilitas perekonomian negara. Ekspor secara langsung menambah pendapatan negara. Peningkatan pendapatan negara menyebabkan peningkatan PDB-nya. Dengan kata lain ekspor mengarah pada pertumbuhan ekonomi, pertanyaannya apakah ekspor mempengaruhi dan memberikan kontribusi terhadap pertumbuhan PDB.
+
+### Ruang lingkup
+
+Dalam penelitian ini, penulis mengangkat topik penelitian dari Badan Pusat Statistik Indonesia. Ruang lingkup penelitian ini meliputi 2 variabel yaitu nilai total ekspor dan nilai produk domestik bruto Indonesia. Data yang digunakan adalah data time series yaitu periode tahun 2010-2021 dengan satuan yang telah diubah kedalam USD guna untuk memudahkan penyetaraan mata uang secara internasional, data inilah yang kemudian menjadi objek penelitian.
+
+### Rumusan masalah
+
+Berdasarkan uraian latar belakang maka yang menjadi masalah pokok pada penelitian ini adalah:
+
+apakah ekspor mempengaruhi dan memberikan kontribusi terhadap pertumbuhan PDB Indonesia.
+
+### Tujuan dan manfaat penelitian
+
+Tujuan penelitian ini untuk mengetahui ekspor mempengaruhi dan memberikan konstribusi terhadap pertumbuhan PDB Indonesia periode 2010-2021. Manfaat yang diharapkan dari hasil penelitian adalah untuk mengetahui seberapa besar ekspor mempengaruhi PDB indonesia.
+
+## Studi pustaka
+
+-   Ekspor
+
+Ekspor merupakan sumber devisa yang penting, peningkatan ekspor akan mengurangi tekanan pada neraca pembayaran dan menciptakan lapangan kerja yang sangat dibutuhkan. Ekspor dapat membantu negara-negara berintegrasi ke dalam ekonomi global dan mengurangi dampak guncangan eksternal terhadap ekonomi domestik. Ekspor memungkinkan produksi dalam negeri mencapai skala ekonomi yang tinggi dan menjadikan sektor ini sebagai mesin pertumbuhan ekonomi.
+
+-   PDB
+
+Menurut Sukirno (2013:34) dalam bukunya makroekonomi teori pengantar, Produk Domestik Bruto (PDB) dapat diartikan sebagai nilai barang-barang dan jasa-jasa yang diproduksikan di dalam negara dalam satu tahun tertentu. Produk Domestik Bruto atau dalam bahasa Inggrisnya Gross Domestic Product (GDP) adalah nilai barang dan jasa dalam suatu negara yang diproduksikan oleh faktor-faktor produksi milik warga negara dan negara asing. (Sukirno, 2013:35) Produk Domestik Bruto atas harga berlaku dapat digunakan untuk melihat pergeseran dan struktur ekonomi, sedangkan harga konstan digunakan untuk mengetahui pertumbuhan ekonomi dari tahun ke tahun.
+
+-   Pertumbuhan Ekonomi
+
+Menurut Sukirno, pertumbuhan ekonomi berarti perkembangan kegiatan ekonomi yang mengarah pada peningkatan barang dan jasa yang dihasilkan masyarakat dan peningkatan kesejahteraan masyarakat. Sedangkan menurut Ali Ibrahim Hasim, pembangunan ekonomi dapat diartikan sebagai suatu proses dimana status ekonomi suatu negara secara terus menerus berubah menjadi status yang lebih baik dalam kurun waktu tertentu. Menurut ahli ekonomi klasik, ada empat faktor yang mempengaruhi pembangunan ekonomi, yaitu jumlah penduduk, jumlah persediaan modal, luas lahan dan sumber daya alam, dan tingkat teknologi yang digunakan. Meskipun pertumbuhan ekonomi bergantung pada banyak faktor, para ekonom klasik memusatkan perhatian pada dampak pertumbuhan penduduk.
+
+## Metode penelitian
+
+### Data
+
+| Ekspor (X)   | PDB (Y)          |
+|--------------|:-----------------|
+| 157779100000 | 456328110754,51  |
+| 203496600000 | 520653763186,35  |
+| 190020300000 | 572772715800,66  |
+| 182551800000 | 634627742464,59  |
+| 175980000000 | 702674843350,72  |
+| 150366300000 | 766271515124,29  |
+| 145134000000 | 824467890416,55  |
+| 168828200000 | 903452686132,23  |
+| 180012700000 | 986481671141,72  |
+| 167683000000 | 1052556301435,92 |
+| 163191800000 | 1026320623003,38 |
+| 231609500000 | 1128219406708,35 |
+
+penelitian ini menggunakan data sekunder yang telah diolah, data ini bersumber dari Badan Pusat Statistik.
+
+```{r}
+#| label: Plot ekspor dan PDB
+#| fig-cap: "sumber data: Badan Pusat Statistik"
+library(readxl)
+dat<-read_excel("data metopel.xlsx")
+reg<-lm(Y~X,data=dat)
+dat$u<-resid(reg)
+plot(dat$X,dat$Y,xlab="Nilai Ekspor",ylab="PDB")
+abline(h=0)
+```
+
+### Metode analisis
+
+Teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 1 variabel independen. Penelitian ini bermaksud untuk mengetahui apakah ekspor mempengaruhi dan memberikan kontribusi terhadap pertumbuhan PDB Indonesia. Spesifikasi yang dilakukan adalah:
+
+$$
+y_{t}=\beta_0 + \beta_1 x_t+\mu_t
+$$ Dimana: Yt adalah PDB Indonesia., β0 adalah koefisien konstanta; β1 adalah parameter; Xt adalah nilai ekspor dan μi adalah error term
+
+## Pembahasan
+
+### Pembahasan masalah
+
+| Variabel  | Coeficient | Std.Error | t.value | Prob  |
+|-----------|------------|-----------|---------|-------|
+| Intercept | 5.835e+11  | 5.221e+11 | 1.118   | 0.290 |
+| X         | 1.215e+11  | 2.935e+00 | 0.414   | 0.688 |
+
+| R-Squared          | 0.01686  |
+|--------------------|----------|
+| Adjusted R-Squared | -0.08145 |
+| F-Statistic        | 0.1715   |
+| Prob (F-Statistic) | 0.6875   |
+
+Ekspor tidak berpengaruh sepenuhnya terhadap PDB karena dapat dilihat dari hasil regresi bahwa nilai ekspor yang bernilai positif sehingga ekspor dapat meningkatkan PDB. Tetapi jika dilihat probabilitas dari X (Nilai Ekspor) tidak berpengaruh terhadap PDB. Nilai koefisien ekspor sebesar 1.215e+00 yang berarti setiap kenaikan ekspor dengan diasumsikan jumlah 1 maka PDB akan meningkat sebesar 1.215e+00. Dengan hasil ini maka dapat disimpulkan bahwa ekspor tidak sepenuhnya berpengaruh terhadap PDB.
+
+### Analisis masalah
+
+```{r}
+library(readxl)
+dat<-read_excel("data metopel.xlsx")
+reg1<-lm(X~Y,data=dat)
+summary(reg1)
+```
+
+## Kesimpulan
+
+Berdasarkan data hasil analisis kuantitatif yang telah dilakukan, setelah diamati ekspor tidak sepenuhnya berpengaruh tetapi ekspor memiliki nilai positif terhadap PDB Idonesia.
+
+## Referensi
+
+Sinaga, A. P., Purba, E. F., & Si, M. (2005). *PENGARUH EKSPOR TERHADAP PENIGKATAN PRODUK DOMESTIK REGIONAL BRUTO (PDRB) KOTA MEDAN (ANALISIS BASIS EKONOMI) PROVINSI SUMATERA UTARA*. Febriyanti, D. F. (2019). PENGARUH EKSPOR DAN IMPOR TERHADAP PRODUK DOMESTIK BRUTO INDONESIA TAHUN 2008-2017. *Ecoplan*, *2*(1), Article 1. <https://doi.org/10.20527/ecoplan.v2i1.13>
+
+Fauziah, E. S., & Khoerulloh, A. K. (2020). Pengaruh Ekspor dan Impor Terhadap Pertumbuhan Ekonomi dengan Kurs Sebagai Variabel Intervening. *Khazanah Sosial*, *2*(1), Article 1. <https://doi.org/10.15575/ks.v2i1.8191>
+
+Hadi, M. A. (2022). ANALISIS PENGARUH INVESTASI,TENAGA KERJA, DAN EKSPOR TERHADAP PRODUK DOMESTIK BRUTO (PDB) INDONESIA TAHUN 1997-2020. *Jurnal Ilmiah Mahasiswa FEB*, *10*(2), Article 2. <https://jimfeb.ub.ac.id/index.php/jimfeb/article/view/8102>
+
+Dewi, N. B. S., & Sarfiah, S. N. (2022). PENGARUH EKSPOR, PENGELUARAN PEMERINTAH, DAN INVESTASI ASING LANGSUNG TERHADAP PERTUMBUHAN EKONOMI DI INDONESIA (1990-2020). *Jurnal Cakrawala Ilmiah*, *1*(12), Article 12.
